@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
         //在Activity onDestroy时把timer.cancel掉然后赋空
         MyHandler handler = new MyHandler(this);
         handler.sendEmptyMessage(0);
-        //测试
+
     }
 
 
