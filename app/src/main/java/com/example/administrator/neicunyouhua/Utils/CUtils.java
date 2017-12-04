@@ -1,6 +1,5 @@
-package com.example.administrator.neicunyouhua;
+package com.example.administrator.neicunyouhua.Utils;
 
-import android.annotation.SuppressLint;
 import android.content.Context;
 
 /**
